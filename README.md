@@ -145,9 +145,3 @@ I would like to thank [Microverse](https://bit.ly/MicroverseTN) for the opportun
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
